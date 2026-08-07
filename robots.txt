@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gamingsetuppro.com/blog-gamingsetuppro/sitemap.xml
